@@ -1,11 +1,14 @@
 class Solution:
-    def maxProfit(self, prices):
-        min_price = prices[0]
-        max_profit = 0
+    def maxProfit(self,prices):
+        maxProfit=0
+        l,r=0,1
 
-        for price in prices:
-            min_price = min(min_price, price)
-            profit = price - min_price
-            max_profit = max(max_profit, profit)
+        while r<len(prices):
+            if prices[l]<prices[r]:
+                profit = prices[r]- prices[l]
+                maxProfit= max(maxProfit,profit)
+            else:
+                l=r
 
-        return max_profit
+            r+=1
+        return maxProfit
