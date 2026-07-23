@@ -1,11 +1,11 @@
 class Solution:
-    def containsDuplicate(self, nums):
-        seen = set()
+    def containsDuplicate(self,nums):
+        hashset=set()
 
-        for num in nums:
-            if num in seen:
+        for n in nums:
+            if n in hashset:
                 return True
-            seen.add(num)
-
+            hashset.add(n)
         return False
+
         
