@@ -18,12 +18,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dahiyakansha04-ctrl/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/dahiyakansha04-ctrl/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/dahiyakansha04-ctrl/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/dahiyakansha04-ctrl/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/dahiyakansha04-ctrl/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dahiyakansha04-ctrl/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/dahiyakansha04-ctrl/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
