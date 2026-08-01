@@ -13,4 +13,4 @@ class Solution:
         for c in countS:
             if countS[c]!=countT.get(c,0):
                 return False
-        return true        
+        return True        
