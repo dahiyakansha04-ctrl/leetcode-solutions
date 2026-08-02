@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dahiyakansha04-ctrl/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/dahiyakansha04-ctrl/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/dahiyakansha04-ctrl/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/dahiyakansha04-ctrl/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dahiyakansha04-ctrl/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/dahiyakansha04-ctrl/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dahiyakansha04-ctrl/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0905-sort-array-by-parity](https://github.com/dahiyakansha04-ctrl/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -46,4 +48,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dahiyakansha04-ctrl/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/dahiyakansha04-ctrl/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dahiyakansha04-ctrl/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0905-sort-array-by-parity](https://github.com/dahiyakansha04-ctrl/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
